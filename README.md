@@ -1,6 +1,6 @@
 # Python Snake
 
-The classic snake game made in [Python Tkinter](https://docs.python.org/2/library/tkinter.html). Written for Python2 by [Gabriel Romualdo](https://xtrp.io/). Licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+The classic snake game made in [Python Tkinter](https://docs.python.org/2/library/tkinter.html). Licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 ![Python Snake Graphic](graphic.jpg)
 
 ## Overview
@@ -22,10 +22,10 @@ Use the arrow keys to move: the left arrow key to move left, the right arrow key
 2. Run the following command to download and play Python Snake! Note that this will download a file called ```snake.py``` into your current working directory.
  
     ```bash
-    curl https://xtrp.github.io/python-snake/snake.py -o snake.py && python snake.py
+    curl https://github.com/Shehab-Hegab/python-snake -o snake.py && python snake.py
     ```
 
 ## Bugs or Issues
 
-If you find a bug or have an issue with Python Snake, feel free to [Submit an Issue](https://github.com/xtrp/python-snake/issues/new).
+If you find a bug or have an issue with Python Snake, feel free to [Submit an Issue](https://github.com/Shehab-Hegab/python-snake).
 
